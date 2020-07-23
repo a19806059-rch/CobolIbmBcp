@@ -1,0 +1,2 @@
+# CobolIbmBcp
+Curso Cobol RCH
