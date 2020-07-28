@@ -90,6 +90,7 @@ CBL LIST,XREF,NUMCHECK(ZON,PAC,BIN),INITCHECK
            PERFORM CALCULUS UNTIL EOF-FILE.
            PERFORM TERMINAR.
            GOBACK.
+           
       *
        OPEN-FILES.
            DISPLAY "Init FAVRFP..".
