@@ -83,7 +83,7 @@ CBL LIST,XREF,NUMCHECK(ZON,PAC,BIN),INITCHECK
                CONTINUE
            ELSE
                MOVE WS-COST TO WS-LOW-COST
-           END-IF
+           END-IF.
            PERFORM LISTAR.
            PERFORM ESCRIBIR-SALIDA.
            READ INFILE
@@ -105,7 +105,7 @@ CBL LIST,XREF,NUMCHECK(ZON,PAC,BIN),INITCHECK
            DIVIDE COST-TOTAL BY WS-CONTAR GIVING WS-COST-AVER
            COMPUTE AVER-COST  ROUNDED = WS-COST-AVER
            DISPLAY "-----------------  "
-           DISPLAY 'Final Statistics: '
+           DISPLAY 'Final Statistics  : '
            DISPLAY "-----------------  "
            DISPLAY 'Number or Records:  ' REC-KTR-OUT
            DISPLAY 'Gross Revenue:      ' COST-TOTAL-OUT
