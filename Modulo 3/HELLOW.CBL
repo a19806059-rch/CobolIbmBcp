@@ -21,7 +21,7 @@
 000020        COPY GNSWCVRF.                                             
 000021        COPY GNSWVVRF.                                             
 000022        PROCEDURE DIVISION.                                        
-000023            DISPLAY "Hello World...COBOL is still alive and well"  
+000023            DISPLAY "Hello World...COBOL is still alive and well  "  
 000024            DISPLAY "COBOL V6.3  PRUEBAS DE COBOL 6.3..........."  
 000025            MOVE "INIT WS " TO WRK-VAR                             
 000026            IF A2 EQUAL ZERO                                       

@@ -104,9 +104,9 @@ CBL LIST,XREF,NUMCHECK(ZON,PAC,BIN),INITCHECK
            MOVE COST-TOTAL         TO COST-TOTAL-OUT
            DIVIDE COST-TOTAL BY WS-CONTAR GIVING WS-COST-AVER
            COMPUTE AVER-COST  ROUNDED = WS-COST-AVER
-           DISPLAY "----------------  "
+           DISPLAY "-----------------  "
            DISPLAY 'Final Statistics: '
-           DISPLAY "----------------  "
+           DISPLAY "-----------------  "
            DISPLAY 'Number or Records:  ' REC-KTR-OUT
            DISPLAY 'Gross Revenue:      ' COST-TOTAL-OUT
            DISPLAY 'Average CD Sale:    ' AVER-COST
