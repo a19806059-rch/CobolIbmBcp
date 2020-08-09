@@ -12,7 +12,7 @@
 000011        FILE-CONTROL.                                                   
 000012            SELECT INFILE   ASSIGN   TO ICLAIM                          
 000013               FILE STATUS  IS  FS-STAT-CLAIM.                          
-000014       *                                                                
+000014       * *                                                               
 000015            SELECT OUTFILE  ASSIGN   TO OCLAIM                          
 000016               FILE STATUS  IS  FS-STAT-PRINT.                          
 000017        DATA DIVISION.                                                  
