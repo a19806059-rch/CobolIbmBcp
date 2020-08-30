@@ -1,0 +1,43 @@
+ 2020/08/30                    Students Courses Breakout                 1
+
+     Student Name:  ROBERT K KAHN
+           Course:  ANTH101      Grade: 3
+           Course:  CALC687      Grade: 4
+           Course:  SOCS200      Grade: 2
+           Course:  ALGB12B      Grade: 4
+           Course:  PHYS002      Grade: 4
+           Course:  FLUT140      Grade: 2
+     Student Name:  LISA CRUDUP
+           Course:  BIOL201      Grade: 4
+           Course:  TRIG551      Grade: 1
+           Course:  SHAK213      Grade: 4
+           Course:  PSYC23A      Grade: 3
+           Course:  BIOL002      Grade: 2
+           Course:  DRUM310      Grade: 2
+     Student Name:  RICHARD HILDEBRAND
+           Course:  POLY555      Grade: 2
+           Course:  GEOM231      Grade: 4
+           Course:  RLIT560      Grade: 1
+           Course:  BIOL13D      Grade: 3
+           Course:  MECH002      Grade: 4
+           Course:  ACCO140      Grade: 3
+     Student Name:  LORETTA PANTOLINE
+           Course:  TUBA567      Grade: 4
+           Course:  STAT043      Grade: 2
+           Course:  SHOP980      Grade: 4
+           Course:  CHEM534      Grade: 0
+           Course:  ASTR002      Grade: 3
+           Course:  VIOL610      Grade: 3
+     Student Name:  SALLY HARRIS
+           Course:  MEDC522      Grade: 2
+           Course:  PIAN003      Grade: 3
+           Course:  SPAN760      Grade: 4
+           Course:  EART164      Grade: 3
+           Course:  RUSS002      Grade: 3
+           Course:  PIAN170      Grade: 4
+ --------------------------------------------------
+  Total Numer of Students:                      5
+  Student with highest QPA:                     4
+  Student with Lowest  QPA:                     0
+  Average QPA for all students:                 2
+
